@@ -1,0 +1,7 @@
+# compiled binaries
+*.exe
+
+
+
+# container images
+*.sif
